@@ -1,0 +1,4 @@
+skip ;
+myVar=3; 
+0?myVar=0:myVar=30;
+1#myVar=0;
